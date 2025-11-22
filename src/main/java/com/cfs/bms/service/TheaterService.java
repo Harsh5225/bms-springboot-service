@@ -14,6 +14,8 @@ public class TheaterService {
 
     private TheaterRepository theaterRepository;
 
+    // update theater
+    // delete theater
 
     public TheaterDto createTheater(TheaterDto theaterDto)
     {
